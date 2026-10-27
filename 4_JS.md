@@ -64,7 +64,7 @@
 #. String concatenation
 #. String methods
 
-<!-- Conditional Statements 12 -->
+<!-- Conditional Statements 12.1 -->
 
 #. if
 #. if...else
@@ -73,7 +73,7 @@
 #. switch
 #. Truthy / Falsy
 
-<!-- Loops -->
+<!-- Loops 13.1 -->
 
 #. What are Loops?
 #. for
@@ -83,7 +83,7 @@
 #. continue
 #. Nested Loops
 
-<!-- Functions -->
+<!-- Functions 14.1 -->
 
 #. What are Functions?
 #. Function Declaration
@@ -97,6 +97,75 @@
 #. Local Scope
 #. Block Scope
 #. Arrow Functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Strings -->
 
