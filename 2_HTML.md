@@ -1,24 +1,27 @@
 <!-- Introduction to HTML -->
 
-#.  What is HTML?
-#.  Why do we use HTML?
-#.  HTML vs CSS vs JavaScript
+#. What is HTML?
+#. Why do we use HTML?
+#. HTML vs CSS vs JavaScript
+#. HTML5 Features and Improvements
 
 <!-- HTML Document Structure -->
 
-#.  <!DOCTYPE html>
-#.  <html>
-#.  <head>
-#.  <title>
-#.  <body>
+#. <!DOCTYPE html>
+#. <html>
+#. <head>
+#. <title>
+#. <body>
 
 <!-- HTML Basics -->
 
-#.  HTML Tags -> h, p
+#. HTML Tags -> h, p
 #. Opening & Closing Tags
 #. HTML Elements -> Inline / Block Element
 #. Nested Elements
 #. HTML Attributes -> id, class
+#. Data Attributes (data-\*)
+#. HTML Attributes — General Usage and Common Attributes
 #. Comments
 
 <!-- Text Content -->
@@ -41,11 +44,9 @@
 
 <!-- HTML Entities -->
 
-#. What are HTML Entities (Special codes)?
-    1. Named Entity -> &name;
-    2. Numeric Entity -> &#number;
+#. What are HTML Entities (Special codes)? 1. Named Entity -> &name; 2. Numeric Entity -> &#number;
 #. Common HTML Entities
-    &lt; / &gt; / &amp; / &quot; / &apos; / &nbsp;
+&lt; / &gt; / &amp; / &quot; / &apos; / &nbsp;
 
 <!-- Links -->
 
@@ -76,6 +77,7 @@
 #. Semantic vs Non-Semantic Elements
 
 # Semantic
+
 #. <header> -> Header area
 #. <nav> -> Navigation
 #. <main> -> Main content
@@ -85,6 +87,7 @@
 #. <aside> -> Side tag
 
 # Non-Semantic
+
 #. <div> -> Generic block container
 #. <span> -> Generic inline container
 
@@ -94,9 +97,10 @@
 #. <input>
 #. <label> -> for / id
 #. Input Types -> text/email/password/number(min/max)/range(min/max)
-    /date/time/file/radio(name)/checkbox(name)/submit...etc
+/date/time/file/radio(name)/checkbox(name)/submit...etc
 #. placeholder
 #. value / name
+#. Form Validation — HTML5 Validation Attributes
 #. required
 #. <textarea> -> cols/rows
 #. <select> / <option> -> value
@@ -117,6 +121,7 @@
 #. <td>
 #. Border
 #. rowspan / colspan
+#. HTML Tables — Accessibility and Best Practices
 
 <!-- Media in HTML -->
 
@@ -124,3 +129,10 @@
 #. <audio> -> src/controls
 #. <video> -> src/controls/poster
 #. <iframe> -> src
+
+<!-- Others -->
+
+#. Responsive HTML Design Principles
+#. HTML Best Practices
+#. Search Engine Optimization (SEO) Basics
+#. Web Standards

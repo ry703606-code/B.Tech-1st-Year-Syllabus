@@ -1,3 +1,5 @@
+<!-- Basic of Development -->
+
 #. What / Why Study Programming & Web Development?
 #. Application & Website
 #. Webpage / Website
@@ -17,3 +19,21 @@
 #. Notepad → VS Code Introduction & Installation
 #. Inspect Element
 #. Other all Basic Details....
+
+<!-- Version Control with Git and GitHub -->
+
+#. Centralized vs Distributed Version Control
+#. Git Architecture
+#. Git Repository Initialization
+#. Repository Cloning
+#. Working Directory, Staging Area and Repository
+#. Git Configuration — Local and Global
+#. Commit Lifecycle
+#. Branching Concepts
+#. Fetching vs Pulling
+#. Git Tags
+#. Repository Management
+#. Collaboration using GitHub
+#. Basic Conflict Resolution
+#. Version History
+#. Best Practices for Source Code Management

@@ -7,6 +7,7 @@
 #. CSS Comments
 #. Inline, Internal and External CSS
 #. Browser Default Styles
+#. Modern Layout Best Practices
 
 <!-- CSS Selectors 5.2 -->
 
@@ -132,8 +133,6 @@
 #. Grid Column and Grid Row
 #. Grid Template Areas / Grid Area
 #. Responsive Grid Layouts
-
-
 #. auto-fit vs auto-fill
 #. Explicit vs Implicit Grid (grid-auto-rows & grid-auto-flow)
 #. Grid Item Alignment (justify-items, align-items, place-items)
@@ -173,3 +172,50 @@
 #. Transform Origin & Transform Style (transform-box, preserve-3d)
 #. CSS Animations & @keyframes Rules
 #. Animation Properties, Shorthand & Animation Fill Mode (forwards, backwards, both)
+
+
+<!-- CSS Preprocessors and Advanced Styling -->
+
+#. Introduction to Sass
+#. Sass Variables
+#. Sass Nesting
+#. Sass Mixins
+#. Sass Functions
+#. Sass Loops
+#. Modular CSS Architecture
+#. Reusable Components
+#. Responsive Components
+#. Utility Classes
+#. Component-Based Styling
+#. Advanced Animations
+#. Interactive UI Design
+#. Modifier Classes
+#. Maintainable Stylesheets
+#. CSS Optimization Techniques
+#. Cross-Browser Compatibility
+#. Performance-Oriented Styling Practices
+
+<!-- Modern CSS Frameworks -->
+
+#. Introduction to CSS Frameworks
+#. Bootstrap and Tailwind CSS
+#. Project Setup
+#. Utility-First CSS
+#. Typography Utilities
+#. Spacing Utilities
+#. Responsive Grid Systems
+#. Flexbox Utilities
+#. Layout Utilities
+#. Background Utilities
+#. Border Utilities
+#. Shadow Utilities
+#. Buttons
+#. Navigation Components
+#. Cards
+#. Forms
+#. Modals
+#. Responsive Breakpoints
+#. Utility-Based Responsive Design
+#. Framework Customization
+#. Documentation-Driven Development
+#. Component Reusability
