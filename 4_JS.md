@@ -97,6 +97,19 @@
 #. Local Scope
 #. Block Scope
 #. Arrow Functions
+#. Function Hoisting
+#. Scope Chain
+#. Higher-Order Functions
+#. Immediately Invoked Function Expression (IIFE)
+#. call(), apply() and bind()
+#. Functional Programming Concepts
+#. Code Reusability
+#. Scope Revision
+#. Lexical Scope
+#. Hoisting → JavaScript code execution
+#. Closures
+#. this
+#. Callbacks
 
 <!-- Strings -->
 
@@ -143,6 +156,23 @@
 #. Spread Operator
 #. Rest Operator
 
+<!-- Object-Oriented JavaScript -->
+
+#. Prototype-Based Programming
+#. Prototype Chain
+#. Constructor Functions
+#. Object.create()
+#. ES6 Classes
+#. Constructors in Classes
+#. Instance Members and Static Members
+#. Getters and Setters
+#. Private Class Fields
+#. Inheritance using extends and super
+#. Encapsulation
+#. Polymorphism
+#. Composition over Inheritance
+#. Modular Programming Concepts
+
 <!-- Objects -->
 
 #. What is an Object?
@@ -158,15 +188,6 @@
 #. Object.keys()
 #. Object.values()
 #. Object.entries()
-
-<!-- Advanced Function Concepts -->
-
-#. Scope Revision
-#. Lexical Scope
-#. Hoisting → JavaScript code execution
-#. Closures
-#. this
-#. Callbacks
 
 <!-- DOM Basics -->
 
