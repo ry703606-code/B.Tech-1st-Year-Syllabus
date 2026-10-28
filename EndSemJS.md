@@ -1,5 +1,6 @@
 <!-- JavaScript Fundamentals -->
 
+#. Introduction to JavaScript
 #. History and Evolution of ECMAScript
 #. Client-Side vs Server-Side JavaScript
 #. JavaScript Runtime Environment
@@ -8,16 +9,31 @@
 #. Development Environment Setup
 #. Browser Developer Tools
 #. Node.js Introduction
-#. Hoisting
+#. JavaScript Syntax
+#. Variables (var, let and const)
+#. Scope and Hoisting
+#. Primitive Data Types
 #. Reference Data Types — Detailed Concepts
+#. Type Conversion and Type Coercion
+#. Operators
 #. Expressions
+#. Template Literals
+#. String Manipulation
 #. Number Operations
 #. Math Object
+#. Conditional Statements
+#. Loops
+#. Truthy and Falsy Values
 #. Control Flow Statements
 #. Coding Best Practices
 
 <!-- Functions and Functional Programming -->
 
+#. Function Declarations and Expressions
+#. Parameters and Arguments
+#. Return Values
+#. Default Parameters
+#. Arrow Functions
 #. Function Hoisting
 #. Lexical Scope
 #. Scope Chain
@@ -92,7 +108,7 @@
 #. Modern ECMAScript Features (ES6+)
 #. Error Handling — try, catch and finally
 #. Asynchronous Programming
-#. setTimeout() and setInterval()
+#. Timers — setTimeout() and setInterval()
 #. Event Loop
 #. Browser Object Model (BOM)
 #. Document Object Model (DOM) Manipulation
@@ -103,3 +119,21 @@
 #. Debugging Techniques
 #. Performance Optimization
 #. JavaScript Best Practices
+
+<!-- Project-Based Web Development -->
+
+#. Project Planning and Requirement Analysis
+#. Interactive User Interface Development
+#. API Consumption — REST APIs
+#. Dynamic Content Rendering
+#. CRUD Operations
+#. State Management Fundamentals
+#. Single Page Application (SPA) Concepts
+#. WebSocket Fundamentals
+#. Responsive JavaScript Applications
+#. Testing and Debugging
+#. Deployment Fundamentals
+#. Version Control Integration with Git
+#. Collaborative Development Workflow
+#. Industry Coding Standards
+#. Capstone Project Development

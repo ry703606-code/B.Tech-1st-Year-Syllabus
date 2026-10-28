@@ -43,7 +43,7 @@
 #. CSS Units
 #. Absolute / Relative Units
 #. px
-#. %, em, rem 
+#. %, em, rem
 #. vh, vw
 #. vmin, vmax
 #. Width and Height
@@ -74,7 +74,7 @@
 
 #. Display Property
 #. Block Elements
-#. Inline Elements 
+#. Inline Elements
 #. Inline-Block Elements
 #. Display None
 #. Visibility and Opacity
@@ -134,7 +134,7 @@
 #. Grid Template Areas / Grid Area
 #. Responsive Grid Layouts
 #. auto-fit vs auto-fill
-#. Explicit vs Implicit Grid (grid-auto-rows & grid-auto-flow)
+#. Explicit vs Implicit Grid (grid-auto-rows / grid-auto-columns & grid-auto-flow)
 #. Grid Item Alignment (justify-items, align-items, place-items)
 
 <!-- Responsive Design 9.1 -->
@@ -144,35 +144,36 @@
 #. Viewport Meta Tag & Viewport Units (vw, vh, vmin, vmax)
 #. Relative & Fluid Units (rem, em, %)
 #. Media Queries (@mediaSyntax & Features)
-#. Standard Breakpoints & Screen Densities
+#. Standard Breakpoints
+#. Screen Densities -> CSS Pixels vs Physical Pixels
 
 <!-- Responsive Typography & Layouts 9.2 -->
 
-#. Font Sizing & Fluid Typography (clamp(), calc())
-#. Fluid Width Control (min-width, max-width, width: 100%)
-#. Responsive Images (<picture>, srcset, sizes, object-fit)
-#. Responsive Containers & Aspect Ratio (container queries, aspect-ratio)
+#. Font Sizing & Fluid Typography (clamp(minimum, preferred, maximum), calc())
+#. Fluid Width Control (width: 100%, max-width, min-width)
+#. Responsive Images (<img>, height, width, srcset, sizes, object-fit, object-position)
+#. Aspect Ratio & Responsive Containers (container queries / container-type -> inline-size)
 #. Responsive Layouts with Flexbox & Grid
 #. Device Emulation, Breakpoint Testing & Chrome DevTools
 
 <!-- CSS Functions & Variables 9.3 -->
 
 #. CSS Functions
-#. calc(), min(), max() and clamp()
+#. calc(), min(), max(), rgb() and clamp()
 #. CSS Variables (Custom Properties)
 #. :root Scope, Inheritance and var()
-#. Variable Fallbacks and Invalid Values
+#. Variable Fallbacks / var(--variable-name, fallback-value) and Invalid Values
 #. CSS Variables for Themes, Dark Mode & JavaScript Dynamic Updates
 
 <!-- Transitions, Transform & Animation 9.4 -->
 
-#. CSS Transitions (transition-property, duration, timing-function, delay)
+#. CSS Transitions (property, duration, timing-function, delay)
 #. Transition Timing Functions (cubic-bezier, steps, linear, ease)
 #. 2D & 3D Transforms (translate, scale, rotate, skew, perspective)
-#. Transform Origin & Transform Style (transform-box, preserve-3d)
+#. Transform Origin 
 #. CSS Animations & @keyframes Rules
-#. Animation Properties, Shorthand & Animation Fill Mode (forwards, backwards, both)
-
+#. Animation Properties (name, duration, timing-function, delay, iteration-count, direction)
+#. Shorthand & Animation Fill Mode (forwards, backwards, both, none)
 
 <!-- CSS Preprocessors and Advanced Styling -->
 
