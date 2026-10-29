@@ -168,21 +168,24 @@
 <!-- Transitions, Transform & Animation 9.4 -->
 
 #. CSS Transitions (property, duration, timing-function, delay)
-#. Transition Timing Functions (cubic-bezier, steps, linear, ease)
-#. 2D & 3D Transforms (translate, scale, rotate, skew, perspective)
-#. Transform Origin 
-#. CSS Animations & @keyframes Rules
+#. Transition Timing Functions (cubic-bezier(), steps(), linear, ease)
+#. 2D & 3D Transforms (translate(), scale(), rotate(), skew(), perspective() & transform-style())
+#. Transform Origin -> center, top, bottom, left, right
+#. CSS Animations & @keyframes Rules -> from/to, percentage keyframes
 #. Animation Properties (name, duration, timing-function, delay, iteration-count, direction)
 #. Shorthand & Animation Fill Mode (forwards, backwards, both, none)
 
 <!-- CSS Preprocessors and Advanced Styling -->
 
-#. Introduction to Sass
-#. Sass Variables
+#. Introduction CSS Preprocessors
+#. Sass(Syntactically Awesome Style Sheets) & Scss(Sassy Cascading Style Sheets)
+#. Sass vs Scss Syntax
+#. Sass Operators
+#. Sass Variables -> $
 #. Sass Nesting
-#. Sass Mixins
-#. Sass Functions
-#. Sass Loops
+#. Sass Mixin -> @mixin and @include
+#. Sass Functions -> @function() and @return
+#. Sass Loops -> @for, @each and @while
 #. Modular CSS Architecture
 #. Reusable Components
 #. Responsive Components
@@ -194,7 +197,7 @@
 #. Maintainable Stylesheets
 #. CSS Optimization Techniques
 #. Cross-Browser Compatibility
-#. Performance-Oriented Styling Practices
+#. Performance-Oriented Styling
 
 <!-- Modern CSS Frameworks -->
 
@@ -220,3 +223,4 @@
 #. Framework Customization
 #. Documentation-Driven Development
 #. Component Reusability
+
