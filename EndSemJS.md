@@ -1,31 +1,22 @@
 <!-- JavaScript Fundamentals -->
 
-#. Introduction to JavaScript
-#. History and Evolution of ECMAScript
+#. Introduction, History and Evolution of JavaScript
 #. Client-Side vs Server-Side JavaScript
-#. JavaScript Runtime Environment
-#. Browser JavaScript Engines (V8, SpiderMonkey)
-#. JavaScript Execution Model
-#. Development Environment Setup
-#. Browser Developer Tools
-#. Node.js Introduction
-#. JavaScript Syntax
-#. Variables (var, let and const)
-#. Scope and Hoisting
-#. Primitive Data Types
-#. Reference Data Types — Detailed Concepts
+#. JavaScript Runtime Environment -> Browser and Node.js
+#. JavaScript Execution Model -> call stack, event loop, and task queue
+#. Development Environment Setup -> Inline, Internal, and External JavaScript
+#. JavaScript Syntax & Variables (var, let and const)
+#. Variable Naming Rules
+#. Scope, Hoisting & Temporal Dead Zone
+#. Primitive, Reference Data Types
 #. Type Conversion and Type Coercion
-#. Operators
-#. Expressions
-#. Template Literals
-#. String Manipulation
-#. Number Operations
-#. Math Object
+#. Truthy and Falsy Values
+#. Operators & Expressions
+#. Template Literals, String & String Manipulation
+#. Number & Math Object
 #. Conditional Statements
 #. Loops
-#. Truthy and Falsy Values
 #. Control Flow Statements
-#. Coding Best Practices
 
 <!-- Functions and Functional Programming -->
 
@@ -38,11 +29,11 @@
 #. Lexical Scope
 #. Scope Chain
 #. Closures
-#. Higher-Order Functions
 #. Callback Functions
+#. Higher-Order Functions
 #. Immediately Invoked Function Expression (IIFE)
-#. Rest Parameters
-#. Spread Operator
+#. Rest Parameters -> Collecting Arguments
+#. Spread Operator -> Expanding Arrays and Objects
 #. this Keyword
 #. call(), apply() and bind()
 #. Functional Programming Concepts
@@ -54,11 +45,14 @@
 #. Array Fundamentals
 #. Creating and Accessing Arrays
 #. Array Operations
+#. unshift(), push(), shift(), pop()
+#. slice(), concat(), includes()
+#. reverse(), sort(), indexOf(), lastIndexOf()
 #. Array Iteration Methods
+#. for/while/do-while loop
 #. forEach()
-#. map()
-#. filter()
-#. reduce()
+#. map(), filter(), reduce()
+#. find(), findIndex()
 #. Searching and Sorting Algorithms using Arrays
 #. Multidimensional Arrays
 #. Array Destructuring
@@ -77,6 +71,7 @@
 
 #. What is JSON?
 #. JSON Structure and Syntax
+#. JSON Data Type -> String, Number, Boolean, Array, Object, Null
 #. JSON.stringify()
 #. JSON.parse()
 #. JSON Serialization and Deserialization
