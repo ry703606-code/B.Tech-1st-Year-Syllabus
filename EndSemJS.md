@@ -81,19 +81,21 @@
 <!-- Object-Oriented JavaScript -->
 
 #. Object-Oriented Programming in JavaScript
+#. Class & Object Concepts
+#. Constructor Functions
 #. Prototype-Based Programming
 #. Prototype Chain
-#. Constructor Functions
 #. Object.create()
 #. ES6 Classes
 #. Constructors
 #. Instance Members and Static Members
-#. Getters and Setters
 #. Private Class Fields
+#. Getters and Setters
+#. Main features of OOP -> Inheritance, Polymorphism, Encapsulation, Abstraction
 #. Inheritance using extends and super
-#. Encapsulation
 #. Polymorphism
-#. Composition over Inheritance
+#. Encapsulation
+#. Abstraction
 #. Modular Programming Concepts
 #. ES Modules — import and export
 #. Design Principles for Scalable JavaScript Applications
@@ -102,8 +104,8 @@
 
 #. Modern ECMAScript Features (ES6+)
 #. Error Handling — try, catch and finally
-#. Asynchronous Programming
-#. Timers — setTimeout() and setInterval()
+#. Synchronous / Asynchronous Programming
+#. Timers — setTimeout(), clearTimeout(), setInterval() and clearInterval()
 #. Event Loop
 #. Browser Object Model (BOM)
 #. Document Object Model (DOM) Manipulation
@@ -115,20 +117,3 @@
 #. Performance Optimization
 #. JavaScript Best Practices
 
-<!-- Project-Based Web Development -->
-
-#. Project Planning and Requirement Analysis
-#. Interactive User Interface Development
-#. API Consumption — REST APIs
-#. Dynamic Content Rendering
-#. CRUD Operations
-#. State Management Fundamentals
-#. Single Page Application (SPA) Concepts
-#. WebSocket Fundamentals
-#. Responsive JavaScript Applications
-#. Testing and Debugging
-#. Deployment Fundamentals
-#. Version Control Integration with Git
-#. Collaborative Development Workflow
-#. Industry Coding Standards
-#. Capstone Project Development
