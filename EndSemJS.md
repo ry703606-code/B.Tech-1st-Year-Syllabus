@@ -91,7 +91,7 @@
 #. Instance Members and Static Members
 #. Private Class Fields
 #. Getters and Setters
-#. Main features of OOP ->   
+#. Main features of OOP -> Inheritance, Polymorphism, Encapsulation, Abstraction 
 #. Inheritance using extends and super
 #. Polymorphism
 #. Encapsulation
